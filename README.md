@@ -1,6 +1,6 @@
 LOUIS ANDRÉ TARAZONA TINOCO
 
-Estudiante de Ingeniería en la **Universidad Nacional de Ingeniería (UNI)** 🇵🇪  
+Estudiante de Ingeniería Estadística en la **Universidad Nacional de Ingeniería (UNI)** 🇵🇪  
 Apasionado por la **Ciencia de Datos, Estadística y Machine Learning**.
 
 ---
